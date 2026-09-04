@@ -1,16 +1,120 @@
-## Hi there 👋
+# Hey, I'm Ragini R 👋
 
-<!--
-**raginirekha/raginirekha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Turning curiosity into code ✦ Building projects ✦ Exploring AI/ML 🚀
 
-Here are some ideas to get you started:
+I'm an MCA student specializing in **Artificial Intelligence & Machine Learning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning by building, experimenting with new technologies, breaking things, fixing them, and figuring out why the code decided to behave differently this time. 😭
+
+---
+
+## 🧠 `curious.exe`
+
+> **Curiosity → Experiment → Build → Learn → Repeat**
+
+**Currently exploring:**
+
+🔭 **AI & Machine Learning**  
+💻 **Full-Stack Development**  
+⚛️ **React & JavaScript**  
+🐍 **Python & Java**  
+🛠️ **Building real-world projects**
+
+---
+
+## 🚀 `things-i-built`
+
+### ☕ RISA Café
+
+**A responsive café website with an interactive food-ordering experience.**
+
+`HTML` `CSS` `JavaScript`
+
+**[↗ View Live Project](https://raginirekha.github.io/risa-cafe/)**
+
+> More projects are loading... 👀
+
+---
+
+## 📜 `developer.log`
+
+<details>
+<summary>📂 <b>Open log</b></summary>
+
+<br>
+
+`01` → Started with curiosity  
+`02` → Turned curiosity into code  
+`03` → Started building projects  
+`04` → Learned to deploy them  
+`05` → Broke things  
+`06` → Fixed things  
+`07` → Learned even more  
+`08` → Repeat...
+
+</details>
+
+---
+
+## 🧠 `learning.next()`
+
+**Right now →**
+
+`Full-Stack` → `React` → `JavaScript` → `Python` → `AI/ML`
+
+**Next →**
+
+`More projects` → `More experiments` → `More things to build`
+
+---
+
+## 🧩 `tech-i'm-exploring`
+
+**Frontend**  
+`HTML` · `CSS` · `JavaScript` · `React`
+
+**Programming**  
+`Python` · `Java`
+
+**Tools**  
+`Git` · `GitHub`
+
+---
+
+## 🎯 `future.goals`
+
+> 🚀 Build useful applications  
+> 🤖 Explore AI & intelligent systems  
+> 💻 Become stronger at Full-Stack development  
+> 🧪 Experiment with new technologies  
+> ✨ Create projects I'm genuinely proud of
+
+---
+
+## 💭 `fun_fact.exe`
+
+> I don't believe you need to know everything before you start building.
+>
+> **Sometimes the project is where the learning begins.** 🚀
+
+---
+
+<div align="center">
+
+## ⚡ `developer.philosophy`
+
+### **Build. Learn. Experiment. Repeat. 🔁**
+
+`[ still building ]` · `[ still learning ]` · `[ still curious ]`
+
+</div>
+
+---
+
+<div align="center">
+
+### `> End of README_`
+
+**Still building. Still learning. Still curious. 🚀**
+
+</div>
