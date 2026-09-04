@@ -1,6 +1,6 @@
 # Hey, I'm Ragini R 👋
 
-### Turning curiosity into code ✦ Building projects ✦ Exploring AI/ML 🚀
+### ✦ Building projects ✦ Exploring AI/ML 🚀
 
 I'm an MCA student specializing in **Artificial Intelligence & Machine Learning**.
 
