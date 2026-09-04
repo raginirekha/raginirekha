@@ -111,10 +111,4 @@ I enjoy learning by building, experimenting with new technologies, breaking thin
 
 ---
 
-<div align="center">
 
-### `> End of README_`
-
-**Still building. Still learning. Still curious. 🚀**
-
-</div>
