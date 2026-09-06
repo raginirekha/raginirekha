@@ -68,16 +68,17 @@ I enjoy learning by building, experimenting with new technologies, breaking thin
 
 ## 🧩 `tech-i'm-exploring`
 
-**Frontend**  
-`HTML` · `CSS` · `JavaScript` · `React`
+### 🌐 Frontend
 
-**Programming**  
-`Python` · `Java`
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
-**Tools**  
-`Git` · `GitHub`
+### 💻 Programming
 
----
+<img src="https://skillicons.dev/icons?i=python,java" />
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ## 🎯 `future.goals`
 
