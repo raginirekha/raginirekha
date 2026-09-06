@@ -2,7 +2,7 @@
 
 I'm an MCA student specializing in **Artificial Intelligence & Machine Learning**.
 
-I enjoy learning by building, experimenting with new technologies, breaking things, fixing them, and figuring out why the code decided to behave differently this time. 😭
+I enjoy learning by building, experimenting with new technologies, breaking things, fixing them, and figuring out why the code decided to behave differently this time. 
 
 ---
 
